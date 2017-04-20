@@ -1,0 +1,190 @@
+#contact {
+	background-image: url("../images/jakob.jpg");
+	background-size: cover;
+	padding-bottom: 0px;
+	margin-top: -20px;
+	padding: 50px; 
+	height: 800px;
+}
+#logo {
+	float: right;
+	top: 150px;
+	right: 150px;
+	position:absolute; 
+}
+.container-fluid {
+	font-family: futura;
+	background-color: #B03A2E;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color:  white   !important;
+	font-weight: 600;
+}
+.navbar-brand {
+	color:  white !important;
+	font-weight: 600;
+}
+.navbar-brand:hover{
+	color: #F5B7B1 !important;
+}
+.dropdown-menu {
+	background-color: #B03A2E;
+}
+.dropdown-menu>li>a {
+	color:  white   !important;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
+	background-color: #F5B7B1;
+}
+
+.dropdown-menu>li>a:hover{
+	background-color: #F5B7B1;
+}
+.dropdown-toggle:hover{
+	background-color: #F5B7B1 !important;
+}
+
+#france {
+	margin-top: -5px;
+}
+#usa {
+	margin-top: -5px;
+}
+
+h1 {
+	color: #E74C3C;
+	font-size: 90px;
+	font-family: signpainter; 
+	text-align: left;
+	font-weight: 500;
+}
+
+#button1 {
+	background-color: #EC7063;
+	color: white;
+	font-family: futura;
+	letter-spacing: 5px;
+	font-weight: 600;
+	border: none;
+	margin: 30px;
+	padding: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-size: 15px;
+	margin: 95px;
+	width: 200px;
+}
+
+#button2 {
+	background-color: #E74C3C;
+	color: white;
+	font-family: futura;
+	letter-spacing: 5px;
+	font-weight: 600;
+	border: none;
+	margin: 30px;
+	padding: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-size: 15px;
+	margin: 95px;
+	width: 200px;
+}
+#button3 {
+	background-color: #B03A2E;
+	color: white;
+	font-family: futura;
+	letter-spacing: 5px;
+	font-weight: 600;
+	border: none;
+	margin: 30px;
+	padding: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-size: 15px;
+	margin: 95px;
+	width: 200px;
+}
+#buttonhead {
+	text-align: center;
+	margin-top: 100px;
+}
+#button1:hover{
+	background-color: rgba(0,0,0, 0.1) !important;
+	color: #EC7063;
+}
+#button2:hover{
+	background-color: rgba(0,0,0, 0.1) !important;
+	color: #E74C3C;
+}
+#button3:hover{
+	background-color: rgba(0,0,0, 0.1) !important;
+	color: #B03A2E;
+}
+
+
+.btn {
+	font-family: futura;
+	background-color: #E74C3C;
+	color: white;
+}
+#join:hover{
+	color: #F5B7B1 !important;
+}
+#login:hover{
+	color: #F5B7B1 !important;
+}
+
+- DEBUT FEATURES -
+	ul	{
+		
+		font-family: century gothic;
+	}
+	p {
+		color: black;
+		font-family: century gothic; 
+	}
+
+	.raw {
+		text-align: center;
+		background-image: url("../images/linda.jpg");
+		background-color: rgba(0,0,0, 0.1); 
+		width: cover;
+		height: 300px;
+		margin-right: -70px;
+		margin-left: -90px;
+	}
+
+#footer {
+	margin: -5px;
+	margin-left: -30px;
+	margin-right: -50px;
+	font-size: 200px;
+	margin-top: -5px;
+}	
+
+#footer a:hover{
+	color: white !important;
+}
+#fb {
+	font-size: 25px;
+	color: #E74C3C;
+}
+#fb:hover{
+	color: white;
+}
+#ig {
+	font-size: 25px;
+	color: #E74C3C; 
+}
+#ig:hover{
+	color: white;
+}
+

@@ -1,0 +1,246 @@
+
+#wrapper {
+	padding: 50px; 
+	background-image: url("../images/arnaud.jpg");
+	height: 500px;
+	padding-bottom: 0px;
+	background-size: cover;
+	margin-top: -20px;
+}
+#logo {
+	float: right;
+	width: 100px;
+	top: 100px;
+	right: 70px;
+	position:absolute; 
+}
+.container-fluid {
+	font-family: futura;
+	background-color: #34495E;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color:  #FADBD8   !important;
+	font-weight: 600;
+}
+.navbar-brand {
+	color:  #FADBD8 !important;
+	font-weight: 600;
+}
+.navbar-brand:hover{
+	color: white !important;
+}
+.dropdown-menu {
+	background-color: #34495E;
+}
+.dropdown-menu>li>a {
+	color:  #FADBD8   !important;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
+	background-color: #5D6D7E;
+}
+
+.dropdown-menu>li>a:hover{
+	background-color: #5D6D7E;
+}
+
+#france {
+	margin-top: -5px;
+}
+#usa {
+	margin-top: -5px;
+}
+
+h1 {
+	color: #3498DB;
+	font-size: 50px;
+	font-family: futura; 
+	text-align: left;
+	font-weight: 500;
+}
+h2 {
+	color: #FADBD8;
+	font-size: 30px;
+	font-family: futura;
+	text-align: left;
+}
+h4{
+	font-size: 25px;
+}
+
+#button1 {
+	background-color: #AED6F1;
+	color: white;
+	font-family: futura;
+	letter-spacing: 5px;
+	font-weight: 600;
+	border: none;
+	margin: 30px;
+	padding: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-size: 20px;
+	margin: 100px;
+	width: 150px;
+}
+
+#button2 {
+	background-color: #5DADE2;
+	color: white;
+	font-family: futura;
+	letter-spacing: 5px;
+	font-weight: 600;
+	border: none;
+	margin: 30px;
+	padding: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-size: 20px;
+	margin: 100px;
+	width: 150px;
+}
+#button3 {
+	background-color: #3498DB;
+	color: white;
+	font-family: futura;
+	letter-spacing: 5px;
+	font-weight: 600;
+	border: none;
+	margin: 30px;
+	padding: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-size: 20px;
+	margin: 100px;
+	width: 150px;
+}
+#buttonhead {
+	text-align: center;
+}
+#button1:hover{
+	background-color: rgba(0,0,0, 0.1) !important;
+	color: #AED6F1;
+}
+#button2:hover{
+	background-color: rgba(0,0,0, 0.1) !important;
+	color: #5DADE2;
+}
+#button3:hover{
+	background-color: rgba(0,0,0, 0.1) !important;
+	color: #3498DB;
+}
+
+
+.btn {
+	font-family: futura;
+	background-color: #FAE5D3;
+	color: #34495E;
+}
+#join:hover{
+	color: white !important;
+}
+#login:hover{
+	color: white !important;
+}
+#p1 {
+	color: #AED6F1;
+	font-family: futura;
+	text-align: left;
+}
+
+- DEBUT FEATURES -
+	ul	{
+		
+		font-family: century gothic;
+	}
+	p {
+		color: black;
+		font-family: century gothic; 
+		font-size: 18px;
+	}
+
+	.raw {
+		text-align: center;
+		width: cover;
+		height: 300px;
+		margin-right: -70px;
+		margin-left: -90px;
+	}
+	#feature1 {
+	color: #E74C3C;
+	font-family: futura; 
+	letter-spacing: 5px;
+	}
+	#icone1 {
+		margin-top: 10px;
+	}
+	#feature2 {
+	color: #E74C3C;
+	font-family: futura;
+	letter-spacing: 5px;
+	}
+	#icone2 {
+		margin-top: 10px;
+	}
+	#feature3 {
+	color: #E74C3C;
+	font-family: futura;
+	letter-spacing: 5px;
+	}
+	#icone3 {
+		margin-top: 10px;
+	}
+	- FIN FEATURES -
+
+#footer {
+	background-color: #34495E !important;
+}	
+
+#footer a:hover{
+	color: white !important;
+}
+#fb {
+	font-size: 25px;
+	color: #FADBD8;
+}
+#fb:hover{
+	color: white;
+}
+#ig {
+	font-size: 25px;
+	color: #FADBD8; 
+}
+#ig:hover{
+	color: white;
+}
+#texte {
+	text-align: center;
+	font-weight: 200px;
+	color: white;
+	font-size: 20px;
+	background-color: rgba(174, 182, 191, 0.7);
+	margin-left: 6px;
+	margin-right: -20px;
+}
+.dropdown-toggle:hover{
+	background-color: #5D6D7E !important;
+}
+#contact {
+	font-family: century gothic;
+	color: #FADBD8;
+}
+#staytuned {
+	margin-top: 10px;
+}
+#linda {
+	background-image: url("../images/linda.png");
+	width: 1290px;
+	margin-left: -60px;
+	margin-top: -20px;
+}
